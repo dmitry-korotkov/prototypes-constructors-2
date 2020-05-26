@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8c9a7ca89niic6sm?svg=true)](https://ci.appveyor.com/project/dmitry-korotkov/prototypes-constructors-2)
